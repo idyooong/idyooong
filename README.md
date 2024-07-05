@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Dayoung%20Lee%20&&animation=fadeIn&fontSize=70&fontAlignY=40&fontAlign=50&height=250)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={깃헙 아이디}&show_icons=true&theme=radical)
+![idyooong's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyooong&include_all_commits=true&show_icons=true&theme=radical)
+
 <!--
 **idyooong/idyooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
