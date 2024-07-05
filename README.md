@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Dayoung%20Lee%20&&animation=fadeIn&fontSize=70&fontAlignY=40&fontAlign=50&height=250)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:70c1ff,100:c8f71d&text=Dayoung%20Lee%20&animation=&fontSize=70&fontAlignY=40&fontAlign=50&height=250)
 ![idyooong's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyooong&show_icons=true&theme=radical)
 
 <!--
