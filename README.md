@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:70c1ff,100:c8f71d&text=Dayoung%20Lee%20&animation=&fontSize=70&fontAlignY=40&fontAlign=50&height=250)
 
 ## 🤝 Contact me
-<a href=mailto:agldy03@gmail.com> <img align="left" src=”https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:agldy03@gmail.com“> </a>
+<a href="mailto:agldy03@gmail.com"> <img align="left" src=”https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:agldy03@gmail.com“> </a>
 
 ## 💼 Tech Stacks
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"> </a>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
 
 ## ✨ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyooong&show_icons=true&theme=transparent)
